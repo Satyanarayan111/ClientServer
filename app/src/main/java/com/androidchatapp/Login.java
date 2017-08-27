@@ -30,7 +30,7 @@ public class Login extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
-
+//New Commits
         register = (TextView)findViewById(R.id.register);
         username = (EditText)findViewById(R.id.username);
         password = (EditText)findViewById(R.id.password);
